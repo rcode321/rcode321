@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafael - you can call me Raf 👋
 
-[![Website](https://img.shields.io/badge/My--Site-UP-brightgreen)](https://rcode321.github.io/rafaelmendozasite/)[![Twitter Follow](https://img.shields.io/twitter/follow/RafaelM77744594?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RafaelM77744594)
+[![Website](https://img.shields.io/badge/My--Site-UP-brightgreen)](https://rcode321.github.io/rafaelmendozasite/)[![Twitter Follow](https://img.shields.io/twitter/follow/Rafael Mendoza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RafaelM77744594)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/RafaelM77744594?color=%231DA1F2&label=FOLLOW&style=flat-square)](https://twitter.com/RafaelM77744594) -->
 
