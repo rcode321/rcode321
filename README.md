@@ -12,7 +12,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
 - ⚡ Fun fact: I love to play guitar / Video Games.
 
-### Connect with me:
+### Get in touch:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rcode321.github.io/rafaelmendozasite/)
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCAoMyjVjecE64M_yaAcM1ww?view_as=subscriber)
