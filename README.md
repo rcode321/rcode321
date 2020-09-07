@@ -8,4 +8,4 @@
 - 🔭 I’m currently working on a Wordpress Custom Theme
 - 🌱 I’m currently learning Front-End Development
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
-- ⚡ Fun fact: I love to play guitar / Video Games
+- ⚡ Fun fact: I love to play guitar / Video Games.
