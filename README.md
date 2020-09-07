@@ -14,9 +14,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rafaelmendoza" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://rcode321.github.io/rafaelmendozasite/]
-[<img align="left" alt="rafaelmendoza | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/ucaomyjvjece64m_yaacm1ww?view_as=subscriber]
-[<img align="left" alt="rafaelmendoza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/rafaelm77744594]
-[<img align="left" alt="rafaelmendoza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/rafael-mendoza-51467b193/]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[YouTube].svg" />
 
 <br />
