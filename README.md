@@ -34,3 +34,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <br />
+
+<summary>:zap: Github Stats</summary>
+
+<img align="left" alt="rcode's Github Stats" src="github-readme-stats-topaz-zeta.vercel.app
+/api?username=rcode321&show_icons=true&hide_border=true" />
