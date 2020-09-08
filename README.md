@@ -41,7 +41,7 @@
 
 <!-- [![Spotify](https://novatorem-sepia.vercel.app)](https://open.spotify.com/user/USER_NAME) -->
 
-[![Spotify](https://novatorem-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https:/novatorem-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <!--START_SECTION:activity-->
 
