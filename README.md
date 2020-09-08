@@ -40,7 +40,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
 
 <details>
   <summary>:zap: Github Stats</summary>
