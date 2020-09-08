@@ -37,7 +37,7 @@
 <br />
 <br />
 
-[![Spotify](https://novatorem-sepia.vercel.app)](https://open.spotify.com/user/rafaelmendoza381)
+[![Spotify](https://novatorem-sepia.vercel.app)](https://open.spotify.com/user/USER_NAME)
 
 <!--START_SECTION:activity-->
 
