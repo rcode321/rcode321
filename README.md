@@ -38,12 +38,7 @@
 <br />
 
 ### Spotify Playing 🎧
-
-<!-- [![Spotify](https://novatorem-sepia.vercel.app)](https://open.spotify.com/user/USER_NAME) -->
-
-<!-- [![Spotify](novatorem-n6bqumbk2.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381) -->
-
-[<img src="https://novatorem-sepia.vercel.app/api/spotify-playing" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <details>
   <summary>:zap: Github Stats</summary>
