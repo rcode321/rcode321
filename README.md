@@ -17,7 +17,6 @@
 [![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
 
 <br />
-<br />
 
 ---
 
