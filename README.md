@@ -12,6 +12,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
 - ⚡ Fun fact: I love to play guitar / Video Games.
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
+
 ### Get in touch:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rcode321.github.io/rafaelmendozasite/)
@@ -37,10 +41,6 @@
 <br />
 <br />
 <br />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
 
 <details>
   <summary>:zap: Github Stats</summary>
