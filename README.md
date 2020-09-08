@@ -41,7 +41,7 @@
 
 <!-- [![Spotify](https://novatorem-sepia.vercel.app)](https://open.spotify.com/user/USER_NAME) -->
 
-[![Spotify](novatorem-git-master.rcode321.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
+[![Spotify](novatorem-n6bqumbk2.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
 
 <details>
   <summary>:zap: Github Stats</summary>
