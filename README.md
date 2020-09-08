@@ -12,7 +12,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
 - ⚡ Fun fact: I love to play guitar / Video Games.
 
-## Spotify Playing 🎧
+### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
 
