@@ -40,7 +40,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-sepia.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <details>
   <summary>:zap: Github Stats</summary>
