@@ -38,7 +38,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-sepia.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[<img src="https://novatorem-sepia.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/rafaelmendoza381)
 
 <details>
   <summary>:zap: Github Stats</summary>
