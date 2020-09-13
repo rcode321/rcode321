@@ -44,6 +44,9 @@
 
 ---
 
+<details>
   <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats-topaz-zeta.vercel.app/api?username=rcode321&show_icons=true&hide_border=true" />
+
+</details>
