@@ -5,7 +5,7 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/RafaelM77744594?color=%231DA1F2&label=FOLLOW&style=flat-square)](https://twitter.com/RafaelM77744594) -->
 
-## Aspiring Front-End Developer. Music Lover
+## Aspiring Front-End Developer.
 
 - 🔭 I’m currently working on a Wordpress Custom Theme
 - 🌱 I’m currently learning Front-End Development
