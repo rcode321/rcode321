@@ -8,7 +8,7 @@
 ## Aspiring Front-End Developer.
 
 - 🔭 I’m currently working on a Wordpress Custom Theme and React
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning Front-End Development and maybe Full Stack 🥰
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
 - ⚡ Fun fact: I love to play guitar.
 - 📹 Working on my Youtube Channel about web development.
