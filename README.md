@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/badge/rafaelmendoza-UP-brightgreen)](https://rcode321.github.io/rafaelmendozasite/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RafaelM77744594?color=1DA1F2&logo=twitter&style=label=Follow%20%40%20Rafael%20Mendoza&style=for-the-badge)](https://twitter.com/RafaelM77744594)
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/RafaelM77744594?color=%231DA1F2&label=FOLLOW&style=flat-square)](https://twitter.com/RafaelM77744594) -->
-
 ## Aspiring Full Stack Javascript Developer.
 
 - 🔭 I’m currently working on a Wordpress Custom Theme and React.
