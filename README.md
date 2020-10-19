@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play guitar. 🎸 and Building / Set up a PC 💻🖥️🖱️
 - 📹 Working on my Youtube Channel about web development.👨‍🏫
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧🎵
 
 [![Spotify](https://novatorem-two-inky.vercel.app/api/spotify)](https://open.spotify.com/user/rafaelmendoza381)
 
