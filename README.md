@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Front-End Development / Full Stack Javascript Development. 🥰😎🧑‍💻
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects. and land a job as a Front End Developer.👌🧑‍💻
 - ⚡ Fun fact: I love to play guitar. 🎸 and Building / Set up a PC 💻🖥️🖱️🎮️...
-- 📹 Working on my Youtube Channel about web development.👨‍🏫👌.
+- 📹 Working on my Youtube Channel about web development.👨‍🏫👌..
 
 ### Spotify Playing 🎧🎵🎶🎼.
 
