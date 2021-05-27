@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/rafaelmendoza-UP-brightgreen)](https://rafaelmendoza.dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RafaelM77744594?color=1DA1F2&logo=twitter&style=label=Follow%20%40%20Rafael%20Mendoza&style=for-the-badge)](https://twitter.com/RafaelM77744594)
 
-## Front-End Developer.
+## Frontend Developer.
 
 - 🔭 I’m currently working on a Wordpress Custom Theme and React.
 - 🌱💡 I’m currently learning Front-End Development / Full Stack Javascript Development. 🥰😎🧑‍
