@@ -6,7 +6,7 @@
 ## Frontend Developer.
 
 - 🔭 I’m currently working on a Wordpress Custom Theme and React.
-- 🌱💡 I’m currently learning Front-End Development / Full Stack Javascript Development. 🥰
+- 🌱💡 I’m currently learning Front-End Development / Full Stack Javascript Development. 
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects. and land a job as a Front End Developer.👌
 - ⚡ Fun fact: I love to play guitar🎸🎶 
 - 📹 Working on my Youtube Channel about web development.👨‍🏫
